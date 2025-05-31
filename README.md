@@ -29,7 +29,7 @@ O curso de Gestão da Tecnologia da Informação na FATEC tem como objetivo form
 
 Durante minha jornada acadêmica, estou aprendendo a trabalhar com diversas ferramentas e tecnologias, incluindo:
 
-- **Linguagens de Programação:** Python, Java, SQL, JavaScript
+- **Linguagens de Programação:** Python,Portugol, SQL, JavaScript
 - **Ferramentas de Desenvolvimento:** Visual Studio Code, GitHub, Git, HTML e CSS
 - **Banco de Dados:** MySQL
 - **Tecnologias de TI:** Redes, Infraestrutura de TI, Virtualização
@@ -38,8 +38,8 @@ Durante minha jornada acadêmica, estou aprendendo a trabalhar com diversas ferr
 
 Ao longo do curso, participei de diversos projetos que me ajudaram a aprimorar minhas habilidades técnicas e de gestão. Alguns dos projetos que mais me marcaram foram:
 
-- **[Nome do Projeto 1]:** Descrição do projeto e o que você aprendeu com ele.
-- **[Nome do Projeto 2]:** Descrição do projeto e o que você aprendeu com ele.
+- **[APP CARE]:** O aplicativo conecta pessoas que precisam de cuidados a profissionais qualificados, como cuidadores de idosos e babás. Ele facilita a busca por serviços confiáveis, oferecendo perfis detalhados, avaliações e comunicação direta. Esse projeto reforça a importância da tecnologia na humanização do cuidado, promovendo segurança, acessibilidade e valorização dos profissionais..
+- **[SITE DE TURISMO COM IA 2]:** site de turismo usa inteligência artificial para criar roteiros personalizados na região de Jaú, conectando viajantes a experiências locais de forma intuitiva. Esse projeto ensina sobre o impacto da tecnologia no turismo, destacando a importância da personalização, acessibilidade e valorização do turismo regional..
 
 ## 🌱 Objetivos de Carreira
 
@@ -48,7 +48,7 @@ Meu objetivo é seguir uma carreira que combine gestão e tecnologia, trabalhand
 ## 📫 Como me encontrar
 
 - **Email:** juninho.josealves131@gmail.com
-- **LinkedIn:** 
+- **LinkedIn:** linkedin.com/in/jose-alves-16ab16260
 - **GitHub:** https://github.com/JoseNavarroAlvesJunior
 
 Obrigado por visitar meu perfil! 😊
